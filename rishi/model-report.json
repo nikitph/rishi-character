@@ -1,0 +1,11 @@
+{
+  "blender": "5.2.1 LTS",
+  "mesh_objects": 331,
+  "base_vertices": 198754,
+  "base_faces": 196921,
+  "finite_coordinates": true,
+  "external_images": [],
+  "rigged": false,
+  "retopologized": false,
+  "watertight_print_verified": false
+}

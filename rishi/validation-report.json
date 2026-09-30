@@ -1,0 +1,40 @@
+{
+  "height_m": 1.8630647659301758,
+  "floor_min_z": 0.0007841587066650391,
+  "asset_marked": true,
+  "linked_character_meshes": 320,
+  "bone_count": 55,
+  "finite_evaluated_coordinates": true,
+  "expression_drivers": {
+    "blink": {
+      "targets": 14,
+      "all_driven_to_one": true,
+      "max_eye_vertex_motion_m": 0.01663792096390418
+    },
+    "brow_raise": {
+      "targets": 14,
+      "all_driven_to_one": true
+    },
+    "smile": {
+      "targets": 3,
+      "all_driven_to_one": true
+    },
+    "jaw_open": {
+      "targets": 3,
+      "all_driven_to_one": true
+    }
+  },
+  "forearm_pose_max_vertex_motion_m": 0.21593797883006197,
+  "pose_file_entries": [
+    "character-neutral",
+    "character-face",
+    "character-teaching",
+    "character-blink",
+    "character-knee-test"
+  ],
+  "glb_import": {
+    "armatures": 1,
+    "skinned_meshes": 320,
+    "morph_meshes": 31
+  }
+}

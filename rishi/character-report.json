@@ -1,0 +1,29 @@
+{
+  "blender": "5.2.1 LTS",
+  "character_id": "RISHI_001",
+  "version": "0.1.0",
+  "mesh_objects": 320,
+  "bones": 55,
+  "vertices": 197066,
+  "faces": 194054,
+  "unweighted_objects": [],
+  "unnormalized_vertices": 0,
+  "finite_coordinates": true,
+  "shape_key_meshes": 31,
+  "expressions": [
+    "blink",
+    "brow_raise",
+    "smile",
+    "jaw_open"
+  ],
+  "rendered_checks": [
+    "neutral",
+    "face",
+    "teaching",
+    "blink",
+    "knee flexion"
+  ],
+  "production_status": "Prototype FK character. Requires animation retopology, extended deformation polish and dialogue rig for demanding film work.",
+  "glb_scope": "Rest pose, skinning and morph targets; Blender expression drivers and procedural bump materials are not portable.",
+  "export_all_influences": true
+}

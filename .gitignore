@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.log
+*.blend[0-9]*
+rishi/development/
