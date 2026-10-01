@@ -1,0 +1,45 @@
+{
+  "body_vertices": 12502,
+  "body_faces": 12500,
+  "all_body_faces_quad": true,
+  "source_topology_preserved": true,
+  "source_uvs_preserved": true,
+  "source_anatomy_reused": true,
+  "bones": 55,
+  "meshes": 256,
+  "unweighted_vertices": 0,
+  "unnormalized_vertices": 0,
+  "expressions": {
+    "blink": {
+      "driver_value": 1.0,
+      "max_vertex_motion_m": 0.025995229325984477,
+      "other_expressions_zero": true
+    },
+    "brow_raise": {
+      "driver_value": 1.0,
+      "max_vertex_motion_m": 0.011327505069039836,
+      "other_expressions_zero": true
+    },
+    "smile": {
+      "driver_value": 1.0,
+      "max_vertex_motion_m": 0.010432743406110834,
+      "other_expressions_zero": true
+    },
+    "jaw_open": {
+      "driver_value": 1.0,
+      "max_vertex_motion_m": 0.018715567738407175,
+      "other_expressions_zero": true
+    }
+  },
+  "forearm_motion_m": 0.37939821521340206,
+  "unintended_face_motion_during_arm_pose_m": 0.0,
+  "finger_motion_m": 0.04233990291734114,
+  "trouser_knee_motion_m": 0.3056527650134632,
+  "finite_evaluated_vertices": true,
+  "costume_body_mask_present": true,
+  "glb_import": {
+    "armatures": 1,
+    "skinned_meshes": 256,
+    "morph_meshes": 3
+  }
+}

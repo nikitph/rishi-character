@@ -1,5 +1,7 @@
 # Rishi 001 — reusable Blender character
 
+**Current version:** [v0.2 uses Blender's CC0 human base mesh](v2/README.md). This page documents the original v0.1 prototype and shared design references.
+
 A stylized, elderly forest sage for recurring Blender films. This is a **version 0.1 character prototype**, not a finished feature-film animation asset.
 
 ## Files

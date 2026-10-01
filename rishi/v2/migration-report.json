@@ -1,0 +1,22 @@
+{
+  "version": "0.2.0",
+  "source": "Blender Human Base Meshes v1.4.1 / Body Male - Stylized",
+  "author": "Julien Kaspar",
+  "license": "CC0",
+  "body_vertices": 12502,
+  "body_faces": 12500,
+  "body_quad_faces": 12500,
+  "topology_matches_source": true,
+  "uv_coordinates_match_source": true,
+  "bones": 55,
+  "mesh_objects": 256,
+  "unweighted_body_vertices": 0,
+  "expressions": [
+    "Basis",
+    "Blink",
+    "Brow_Raise",
+    "Smile",
+    "Jaw_Open"
+  ],
+  "status": "Refitted character prototype; tested poses only, not a production dialogue rig."
+}

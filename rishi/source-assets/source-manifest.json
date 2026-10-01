@@ -1,0 +1,44 @@
+{
+  "bundle": "Human Base Meshes v1.4.1",
+  "source_url": "https://download.blender.org/demo/asset-bundles/human-base-meshes/human-base-meshes-bundle-v1.4.1.zip",
+  "archive_sha256": "811f43accbb31a88266d932f8f5563b2d13586fca0ba2693aad1f5fe582b3515",
+  "collection": "Body Male - Stylized",
+  "author": "Julien Kaspar",
+  "license": "CC0 per bundle README and Blender demo-files listing",
+  "objects": [
+    {
+      "object": "GEO-body_male_stylized",
+      "vertices": 12502,
+      "faces": 12500,
+      "quad_faces": 12500,
+      "uv_maps": [
+        "UVMap"
+      ]
+    },
+    {
+      "object": "GEO-body_male_stylized.eye.L",
+      "vertices": 802,
+      "faces": 832,
+      "quad_faces": 768,
+      "uv_maps": [
+        "UVMap"
+      ]
+    },
+    {
+      "object": "GEO-body_male_stylized.eye.R",
+      "vertices": 802,
+      "faces": 832,
+      "quad_faces": 768,
+      "uv_maps": [
+        "UVMap"
+      ]
+    }
+  ],
+  "armatures": 0,
+  "expression_shape_keys": 0,
+  "changes": [
+    "Removed stale drivers for nonexistent mask modifiers",
+    "Recentered library collection offset"
+  ],
+  "status": "Imported modeling foundation; rishi sculpt and rig migration not performed"
+}
